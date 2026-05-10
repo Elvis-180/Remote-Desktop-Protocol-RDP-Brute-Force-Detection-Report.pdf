@@ -59,7 +59,7 @@ Windows Server Target (192.168.1.1)
 |---|---|
 | Operating System | Kali Linux |
 | IP Address | `192.168.2.5` |
-| Network Zone | OPT1 |
+| Network Zone | OPT1 (External) |
 
 ## Target System
 
@@ -69,6 +69,7 @@ Windows Server Target (192.168.1.1)
 | IP Address | `192.168.1.1` |
 | Exposed Service | RDP |
 | Port | `3389` |
+| Network Zone | LAN (Intrenal) |
 
 ## Tools Used
 <p>
