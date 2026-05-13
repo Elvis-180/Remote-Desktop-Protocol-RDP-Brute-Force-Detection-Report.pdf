@@ -189,7 +189,14 @@ The following remediation actions were identified:
 - MITRE ATT&CK Mapping
 
   ---
-  
+
+## Screenshots
+- Mitre-attack-matrix overview
+<img width="1920" height="1080" alt="Screenshot 2026-05-04 172835" src="https://github.com/user-attachments/assets/fbc12b0a-77a8-406e-a4f8-933afee7deca" />
+
+- Firewall Logs
+ <img width="1920" height="1080" alt="Screenshot 2026-04-19 083131" src="https://github.com/user-attachments/assets/a334e9b4-00db-4019-9bb6-faa033ecae7a" />
+
 # Lessons Learned
 
 - Exposed RDP services significantly increase attack surface
